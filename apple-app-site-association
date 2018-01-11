@@ -1,13 +1,15 @@
-{   "webcredentials": {
-       "apps": [ "L3232TM826.com.Lvmama.Lvmama" ]
+{
+    "webcredentials": {
+        "apps": ["L3232TM826.com.Lvmama.Lvmama"]
+    },
+    "activitycontinuation": {
+        "apps": ["L3232TM826.com.Lvmama.Lvmama"]
     },
     "applinks": {
         "apps": [],
-        "details": [
-            {
-                "appID": "L3232TM826.com.Lvmama.Lvmama",
-                "paths": ["/*"]
-            }
-        ]
+        "details": [{
+            "appID": "L3232TM826.com.Lvmama.Lvmama",
+            "paths": ["/*"]
+        }]
     }
 }
